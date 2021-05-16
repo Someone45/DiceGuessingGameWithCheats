@@ -7,4 +7,4 @@ There is a 50/50 chance to get the correct or an incorrect answer, but even with
 
 The game allows the user to try an infinite number of times without repercussions unless the cheat or the reveal answer functions are used.
 
-This was made as a fun project for a class. If you would like some code to feed your eyes, go ahead and explore :)
+This was made as a fun project for a class. If you would like some code to feed your eyes or a simple project to study from, go ahead and explore :)
