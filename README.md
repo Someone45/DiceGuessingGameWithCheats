@@ -1,5 +1,5 @@
 # DiceGuessingGameWithCheats
-Python based game where the user determines the sum of two dices to win.
+Python based game where the user determines the random sum of two dices to win.
 
 There is a cheating function where the user can choose to cheat, but both of the answers provided will be incorrect followed by a message that states "Cheaters never prosper."
 However, if one can determine the pattern of the cheating answers, it is very easy to find the correct answer after asking for help.
